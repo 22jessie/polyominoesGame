@@ -9,10 +9,10 @@ The UML
 </p>
 
 <p>
-Some images of the game in execution
-  <img src="/Images/1.png" width="250" height="350">
-  <img src="/Images/3.png" width="250" height="350">
-  <img src="/Images/4.png" width="250" height="350">
+##Some images of the game in execution
+  <img src="/Images/1.png" width="250" height="350"><br>
+  <img src="/Images/3.png" width="250" height="350"><br>
+  <img src="/Images/4.png" width="250" height="350"><br>
 </p>
 
 
